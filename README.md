@@ -26,3 +26,5 @@ Anaconda: https://www.anaconda.com/download/
 Google API Key Registration: https://developers.google.com/places/web-service/
 
 Tableau Public (Free) Download: https://public.tableau.com/en-us/s/download
+
+Python Census Legend: https://gist.github.com/afhaque/60558290d6efd892351c4b64e5c01e9b
