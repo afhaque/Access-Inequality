@@ -15,6 +15,8 @@ Google Key: AIzaSyA_Clyz3478YAUnsESNHE5dyktvvMoa-vw
 
 Census API Key: 85ac64b6b5a9c0901b00329d1ef41f0c53ccfc98
 
+Gist Link: https://gist.github.com/
+
 ...
 
 Relevant Links:
