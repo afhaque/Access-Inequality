@@ -1,13 +1,15 @@
 # Mapping-Access-Inequality
 Mapping Access Inequality Project. Part of Workshop for Open Camps 2017. 
 
+![WV-Image](WV-Image.png)
+
 ### Get Started by:
 1. Cloning the Repository
 2. Running the command `pip install requirements.txt`
 3. Sign Up for An API Key from Google Maps: https://developers.google.com/places/web-service/
 4. Register for an API Key from the US Census: https://api.census.gov/data/key_signup.html
 
-...
+---
 
 ### Relevant Links:
 
