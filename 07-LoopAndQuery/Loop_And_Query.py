@@ -78,7 +78,7 @@ print(zip_data)
 
 # Build the URLs
 max_distance_meters = 8000
-city_amenity = "Hospial"
+city_amenity = "Hospital"
 gkey = "{API KEY}"
 zip_data["Google_URL"] = "https://maps.googleapis.com/maps/api/place/radarsearch/json?location=" + zip_census_geocoded["lat"].map(str) + "," + zip_census_geocoded["lng"].map(str) + "&radius=" + str(max_distance_meters) + "&keyword=" + city_amenity + "&key=" + gkey
 print(zip_data)
